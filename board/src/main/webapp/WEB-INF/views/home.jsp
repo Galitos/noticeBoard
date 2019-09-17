@@ -16,7 +16,8 @@
 
 <p>
 	<a href="${path}/board/list">게시물 목록</a><br>
-	<a href="${path}/board/write">게시물 작성</a>
+	<a href="${path}/board/write">게시물 작성</a><br>
+	<a href="${path}/board/listPage?num=1">게시물 [페이지]</a><br>	
 </p>
 </body>
 </html>
